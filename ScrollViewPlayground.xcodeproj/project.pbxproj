@@ -55,13 +55,21 @@
 			isa = PBXGroup;
 			children = (
 				BBF539972358C49B00DB3141 /* AppDelegate.swift */,
-				BBF539992358C49B00DB3141 /* ViewController.swift */,
-				BBF5399B2358C49B00DB3141 /* Main.storyboard */,
+				BBF539A92358C4B700DB3141 /* MainView */,
 				BBF5399E2358C49C00DB3141 /* Assets.xcassets */,
 				BBF539A02358C49C00DB3141 /* LaunchScreen.storyboard */,
 				BBF539A32358C49C00DB3141 /* Info.plist */,
 			);
 			path = ScrollViewPlayground;
+			sourceTree = "<group>";
+		};
+		BBF539A92358C4B700DB3141 /* MainView */ = {
+			isa = PBXGroup;
+			children = (
+				BBF539992358C49B00DB3141 /* ViewController.swift */,
+				BBF5399B2358C49B00DB3141 /* Main.storyboard */,
+			);
+			path = MainView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
